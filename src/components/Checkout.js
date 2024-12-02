@@ -18,9 +18,9 @@ const Checkout = () => {
 
     try {
       const response = await processPayment(cart, calculateTotal());
-      setMessage(response); // Ödeme başarılı
+      setMessage(response); 
     } catch (error) {
-      setMessage(error); // Ödeme başarısız
+      setMessage(error); 
     } finally {
       setLoading(false);
     }

@@ -1,6 +1,5 @@
 import React, { createContext, useContext, useState } from "react";
 
-// Sepet için bir Context oluşturuyoruz
 const CartContext = createContext();
 
 export const useCart = () => useContext(CartContext);
