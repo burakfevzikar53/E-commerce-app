@@ -1,3 +1,12 @@
+# E-Commerce App
+
+![Screenshot](./src/images/pc1.png)
+![Screenshot](./src/images/pc3.png)
+[Watch Demo Video](./src/images/video.mp4)
+
+## Live Demo
+[Live Demo](https://burakfevzikar53.github.io/E-commerce-app)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
